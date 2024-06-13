@@ -94,4 +94,4 @@ To run and interact with the MyToken contract, you'll need the following:
 - Email: 22bcs80056@cuchd.in
 
 ## License
-This project is licensed under the [MIT License](https://github.com/saurya25122001/ETH-PROOF-Beginner-assesment/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/22bcs10361/ETH_PROOF_BEGINEER/blob/014fb056e3ee09df01b45defc1d885937681a4aa/LICENSE).
